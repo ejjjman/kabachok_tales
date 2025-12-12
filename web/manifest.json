@@ -1,0 +1,10 @@
+{
+  "name": "kabachok_tales",
+  "short_name": "Kabachok Tales",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
